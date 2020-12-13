@@ -1,0 +1,14 @@
+h2 {
+    display: inline;
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+
+
